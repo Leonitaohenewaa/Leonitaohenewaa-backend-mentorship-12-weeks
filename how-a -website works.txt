@@ -18,35 +18,25 @@ This is where all data is stored permanently
 The backend reads from and writes to it but the browser never accesses it directly
 Examples include PostgreSQL MySQL MongoDB and Firebase
 
-API APPLICATION PROGRAMMING INTERFACE
-The bridge between frontend and backend
-It defines how the frontend talks to the backend using endpoints
-Common methods include
-GET used to read data
-POST used to send or create data
-PUT used to update data
-DELETE used to remove data
-Data is usually exchanged in JSON format
+API
+API stands for Application Programming Interface. An API acts as a messenger between the frontend and the backend. It allows different parts of a system to communicate with each other.
+For example, when a user submits a login form, the frontend sends the login details to an API. The API passes the information to the backend, which processes it and returns a response.
 
-REQUEST RESPONSE CYCLE
+REQUEST RESPONSE FLOW
+The request-response flow describes how information moves between the user, frontend, backend, and database
 
-Browser sends a request to the backend which may interact with the database and then sends a response back to update the page
+Example: User Login
 
-LOGIN FLOW STEP BY STEP
+The user enters an email and password on the login page.
+The frontend sends a request to the backend through an API.
+The backend receives the request and checks the information.
+The backend queries the database to find the user record.
+The database returns the requested information.
+The backend verifies the password.
+The backend sends a response back to the frontend.
+The frontend displays the result to the user.
 
-The user opens the website in a browser and enters the login page.
-The browser requests the page from the server and the frontend (login form) is displayed.
-The user enters their email and password and clicks the login button.
-The frontend sends this information as a request to the backend through an API.
-The backend receives the request and processes it. It first checks the data and usually hashes the password for security.
-The backend then communicates with the database to find the user’s stored account details.
-The database returns the user record if it exists.
-The backend compares the stored password with the one provided.
-If the details match, the backend creates a session or authentication token.
-The backend sends a response back to the frontend confirming login success.
-The frontend stores the token and redirects the user to their dashboard.
-From this point, every new request from the user includes the token so the system knows they are already logged in.
+If the login details are correct, the user is logged in and redirected to their dashboard. If the details are incorrect, an error message is displayed.
 
-FLOW:
-Browser → Backend API → Database
-Database → Backend API → Browser
+
+

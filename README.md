@@ -4,10 +4,14 @@ This repository contains my Week 1 backend mentorship assignment.
 
 ## Assignment
 
-- Understand how websites work
-- Document the login flow of a website
-- Learn GitHub basics
-- Push code using VS Code
+- One-page note explaining frontend, backend, database, API, and request-response flow.
+
+- GitHub repo
+Create backend-mentorship-12-weeks and add a clean README.
+
+- First commit
+Push Week 1 notes to GitHub using the basic commands.
+
 
 ## Files
 

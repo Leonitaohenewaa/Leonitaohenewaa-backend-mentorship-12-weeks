@@ -1,9 +1,39 @@
-# Backend Mentorship Week 1
+# Backend Mentorship 
 
-This repository contains my Week 1 backend mentorship assignment.
+This repository contains all the work, notes, projects, and learning activities completed during my 12-week Backend Development Mentorship Program.
 
-## Assignment
+It is meant to document my learning journey, track my progress, and showcase the skills I develop throughout the mentorship.
 
+##  Week 1 (MAY 23,2027)
+
+-Introductions between Leonita and Isaac.
+-Discussed expectations from each other throughout the mentorship program.
+-Agreed on preferred communication methods, with email being the primary mode of communication.
+
+Action Items
+
+-Completed the Mentorship Agreement Form.
+-Completed the initial version of the Mentorship Action Plan.
+
+##  Week 2 (JUNE 5,2026)
+
+Tpics Covered
+- How websites work
+- Frontend
+- Backend
+- Database
+- API
+- Request-response flow
+
+### Action Items
+- Download VS Code
+- Create a summary explaining how a website works
+- Create a GitHub repository
+- Create a README file
+- Connect GitHub to VS Code
+- Push Action items to GitHub
+
+### Deliverable
 - One-page note explaining frontend, backend, database, API, and request-response flow.
 
 - GitHub repo

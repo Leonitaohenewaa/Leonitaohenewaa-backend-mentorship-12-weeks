@@ -4,7 +4,7 @@ This repository contains all the work, notes, projects, and learning activities 
 
 It is meant to document my learning journey, track my progress, and showcase the skills I develop throughout the mentorship.
 
-## Week 1 (MAY 23,2027)
+## INTRODUCTION (MAY 23,2027)
 
 -Introductions between Leonita and Isaac.
 -Discussed expectations from each other throughout the mentorship program.
@@ -15,7 +15,7 @@ Action Items
 -Completed the Mentorship Agreement Form.
 -Completed the initial version of the Mentorship Action Plan.
 
-## Week 2 (JUNE 5,2026)
+## Week 1(JUNE 5,2026)
 
 Tpics Covered
 - How websites work
@@ -42,10 +42,27 @@ Create backend-mentorship-12-weeks and add a clean README.
 - First commit
 Push Week 1 notes to GitHub using the basic commands.
 
-
 ### Files
 
 -how-a-website works.txt
+
+## Week 2
+
+Resources
+Python Tutor (for debugging)
+Python Online editor
+Python Youtube Video
+
+### Action Items
+Install Python
+Complete Week 2 assignments:
+Assignment Instructions
+Push to github
+Watch recommended python youtube video and practice
+
+### Deliverable
+
+
 
 ## Week 3
 To be updated.

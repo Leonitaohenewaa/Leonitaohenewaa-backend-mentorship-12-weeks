@@ -72,9 +72,9 @@ Resources
 -Make a list of questions/things to be readdressed after watching video
 
 ### Deliverable
-Command-Line Quiz App
-README explaining the work clearly
-Push to git hub
+-Command-Line Quiz App
+-README explaining the work clearly
+-Push to git hub
 
 ## Week 4
 To be updated.

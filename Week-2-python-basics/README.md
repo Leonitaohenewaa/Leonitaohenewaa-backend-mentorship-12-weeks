@@ -24,3 +24,5 @@ Understanding the actual Python concepts (variables, functions, loops and condit
 
 One thing that felt confusing: 
 I did not realize that programs using input() are designed to pause and wait for me to type something before continuing, so when I just ran the file without typing anything, it looked frozen or broken instead of working as intended.
+
+ I learnt  \n means new line.It breaks a new line properly.

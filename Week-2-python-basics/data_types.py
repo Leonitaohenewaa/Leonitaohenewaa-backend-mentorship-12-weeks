@@ -7,7 +7,7 @@ print(country)
 print(type(country))
 
 # Integer: whole number
-age = 21
+age = 20
 print(age)
 print(type(age))
 

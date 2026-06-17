@@ -49,23 +49,32 @@ Push Week 1 notes to GitHub using the basic commands.
 ## Week 2
 
 Resources
-Python Tutor (for debugging)
-Python Online editor
-Python Youtube Video
+-Python Tutor (for debugging)
+-Python Online editor
+-Python Youtube Video
 
 ### Action Items
-Install Python
-Complete Week 2 assignments:
-Assignment Instructions
-Push to github
-Watch recommended python youtube video and practice
+-Install Python
+-Complete Week 2 assignments:
+-Assignment Instructions
+-Push to github
+-Watch recommended python youtube video and practice
 
 ### Deliverable
-
+-Required code-variables.py, data_types.py, simple_receipt.py, profile_generator.py
+-README.md explaining what each file does and how to run it
+-Push the Week 2 folder to the mentorship repository before the next check-in.
 
 
 ## Week 3
-To be updated.
+-Action Items
+-Complete Week’s assignment
+-Make a list of questions/things to be readdressed after watching video
+
+### Deliverable
+Command-Line Quiz App
+README explaining the work clearly
+Push to git hub
 
 ## Week 4
 To be updated.

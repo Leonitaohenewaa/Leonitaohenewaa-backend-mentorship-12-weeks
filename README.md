@@ -6,14 +6,14 @@ It is meant to document my learning journey, track my progress, and showcase the
 
 ## INTRODUCTION (MAY 23,2027)
 
--Introductions between Leonita and Isaac.
--Discussed expectations from each other throughout the mentorship program.
--Agreed on preferred communication methods, with email being the primary mode of communication.
+- Introductions between Leonita and Isaac.
+- Discussed expectations from each other throughout the mentorship program.
+- Agreed on preferred communication methods, with email being the primary mode of communication.
 
 Action Items
 
--Completed the Mentorship Agreement Form.
--Completed the initial version of the Mentorship Action Plan.
+- Completed the Mentorship Agreement Form.
+- Completed the initial version of the Mentorship Action Plan.
 
 ## Week 1(JUNE 5,2026)
 
@@ -44,40 +44,52 @@ Push Week 1 notes to GitHub using the basic commands.
 
 ### Files
 
--how-a-website works.txt
+- how-a-website works.txt
 
-## Week 2
+## Week 2(JUNE 13, 2026)
 
 Resources
--Python Tutor (for debugging)
--Python Online editor
--Python Youtube Video
+- Python Tutor (for debugging)
+- Python Online editor
+- Python Youtube Video
 
 ### Action Items
--Install Python
--Complete Week 2 assignments:
--Assignment Instructions
--Push to github
--Watch recommended python youtube video and practice
+- Install Python
+- Complete Week 2 assignments:
+- Assignment Instructions
+- Push to github
+- Watch recommended python youtube video and practice
 
 ### Deliverable
--Required code-variables.py, data_types.py, simple_receipt.py, profile_generator.py
--README.md explaining what each file does and how to run it
--Push the Week 2 folder to the mentorship repository before the next check-in.
+- Required code-variables.py, data_types.py, simple_receipt.py, profile_generator.py
+- README.md explaining what each file does and how to run it
+- Push the Week 2 folder to the mentorship repository before the next check-in.
 
 
-## Week 3
--Action Items
--Complete Week’s assignment
--Make a list of questions/things to be readdressed after watching video
+## WeeK 3(JUNE 14,2026)
+
+### Action Items
+- Complete Week’s assignment
+- Make a list of questions/things to be readdressed after watching video
 
 ### Deliverable
--Command-Line Quiz App
--README explaining the work clearly
--Push to git hub
+- Command-Line Quiz App
+- README explaining the work clearly
+- Push to git hub
 
-## Week 4
-To be updated.
+## Week 4(JUNE 20, 2026)
+Action Items
+- Review youtube video
+
+### Action Items(JUNE 21,2026)
+- Watch Data structures video
+- W3 schools
+
+### Deliverable
+- Contact book mini program
+- GitHub with a clear README.
+- Push to github
+
 
 ## Week 5
 To be updated.

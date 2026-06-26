@@ -76,8 +76,15 @@ Resources
 -README explaining the work clearly
 -Push to git hub
 
-## Week 4
-To be updated.
+## Week 4(JUNE 20, 2026)
+-Action Items
+-Review youtube video
+
+## JUNE 21, 2026
+Action Items
+-Watch Data structures video
+-W3 schools
+
 
 ## Week 5
 To be updated.

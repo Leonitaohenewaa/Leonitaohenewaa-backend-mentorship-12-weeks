@@ -63,6 +63,11 @@ def main():
         elif choice == "4":
             print("Goodbye!")
             break
+        elif choice == "5":
+            if delete_contact(contacts, input("Name to delete: ")):
+                print("Deleted.")
+            else:
+                print("Not found.")
         else:
             print("Invalid choice. Please choose 1, 2, 3 or 4.")
 

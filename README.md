@@ -92,10 +92,16 @@ Action Items
 
 
 ## Week 5
-To be updated.
+Problem solving
 
 ## Week 6
-To be updated.
+Git/GitHub deeper practice
+
+### Action Items
+
+- Create a txt file about the flow of creating a PR and merging into main on github. Also, define what commits mean, what a branch means, and what a PR means
+- Create a PR with this change
+- Merge to main when approved
 
 ## Week 7
 To be updated.

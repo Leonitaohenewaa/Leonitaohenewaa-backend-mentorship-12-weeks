@@ -1,4 +1,5 @@
 contacts = []
+# [{'name': 'Leonita', 'phone': 123, 'email': 'leo@'}, {'name': 'Emma', 'phone': 234, 'email': 'e@'}, {'name': 'Ama', 'phone': 900, 'email': 'ama@'}]"git"
 
 
 def show_menu():
@@ -40,6 +41,14 @@ def search_contact():
         print("Contact not found.")
 
 
+def delete_contact(contacts, name):
+    for contact in contacts:
+        if contact["name"] == name:
+            contacts.remove(contact)
+            return True
+    return False
+
+
 def main():
     while True:
         show_menu()
@@ -54,6 +63,11 @@ def main():
         elif choice == "4":
             print("Goodbye!")
             break
+        elif choice == "5":
+            if delete_contact(contacts, input("Name to delete: ")):
+                print("Deleted.")
+            else:
+                print("Not found.")
         else:
             print("Invalid choice. Please choose 1, 2, 3 or 4.")
 

@@ -8,7 +8,6 @@ def show_menu():
     print("2. View all contacts")
     print("3. Search contact")
     print("4. Exit")
-    print("5. Delete contact")
 
 
 def add_contact():

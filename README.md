@@ -91,10 +91,10 @@ Action Items
 - Push to github
 
 
-## Week 5
+## Week 5 ( JUNE 28, 2026)
 Problem solving
 
-## Week 6
+## Week 6 ( JULY 5, 2026)
 Git/GitHub deeper practice
 
 ### Action Items
@@ -103,11 +103,21 @@ Git/GitHub deeper practice
 - Create a PR with this change
 - Merge to main when approved
 
-## Week 7
-To be updated.
+## Week 7-8 (JULY 11,12, 2026)
+- SQL Walkthrough
+- design tables, create a SQLite database, write CRUD queries
 
-## Week 8
-To be updated.
+Action Items
+- Review W3 schools sql: https://www.w3schools.com/sql/default.asp 
+- Online sql editor: https://sql-editor.programiz.com/ 
+
+### Deliverable
+- Create a folder called(week-08-event-booking-database)
+Include:
+- one SQL file that creates the database tables
+- one SQL file that inserts the sample data
+- one SQL file containing all required queries, updates, and delete operations
+- a README.md explaining what the database does
 
 ## Week 9
 To be updated.

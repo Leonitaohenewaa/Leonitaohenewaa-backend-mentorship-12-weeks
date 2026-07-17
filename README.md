@@ -91,17 +91,31 @@ Action Items
 - Push to github
 
 
-## Week 5
-To be updated.
+## Week 5 (JUNE 27,2026)
+- Problem solving
 
-## Week 6
-To be updated.
+## Week 6 ( JULY 5,2026)
+- Git/GitHub deeper practice
 
-## Week 7
-To be updated.
+### Action Items
 
-## Week 8
-To be updated.
+- Create a txt file about the flow of creating a PR and merging into main on github. Also, define what commits mean, what a branch means, and what a PR means
+- Create a PR with this change
+- Merge to main when approved
+
+
+## Week 7 & 8 (JULY 11,12 ,2026)
+- SQL & Database walkthroug
+
+### Action Items
+-Review W3 schools sql: https://www.w3schools.com/sql/default.asp 
+-Online sql editor: https://sql-editor.programiz.com/ 
+
+### DELIVERABLE
+- Create an event ticket booking database
+- insert into the tables
+- Write queries,update,delete
+- A README and push to Github
 
 ## Week 9
 To be updated.

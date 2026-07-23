@@ -119,11 +119,18 @@ Include:
 - one SQL file containing all required queries, updates, and delete operations
 - a README.md explaining what the database does
 
-## Week 9
-To be updated.
+## Week 9-10 
+APIs & Flask
 
-## Week 10
-To be updated.
+### Deliverable
+- Explain API, endpoint, request, response, JSON, and status code.
+- Save examples for GET, POST, PUT and DELETE.
+- Include the URL, request body, status code, and response.
+- Check Flask server runs without errors.
+- Test every endpoint (GET, POST) in Postman.
+- All seven screenshots are inside the screenshots folder.
+- The POST request uses JSON.
+- Push to GitHub.
 
 ## Week 11
 To be updated.
